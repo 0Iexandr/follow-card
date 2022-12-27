@@ -1,0 +1,15 @@
+.avatar {
+  position: absolute;
+  width: 92px;
+  height: 92px;
+  left: 181px;
+  top: 209px;
+  border-radius: 100px;
+}
+
+.avatar__separator {
+  position: absolute;
+  width: 454px;
+  height: 14px;
+  top: 251px;
+}

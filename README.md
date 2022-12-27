@@ -1,0 +1,1 @@
+This app shows us a follow cards with users
